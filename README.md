@@ -18,3 +18,7 @@ From stylized images, generative models show good performance in capturing the m
 Additionally, the increase in blue areas in the color block diagram indicates a higher proportion of images being identified by the discriminator as in the Monet Style. This suggests that the model may have captured key stylistic elements of Monet's painting style, such as color temperature, light reflection, or overall structure, representing progress in the generator's imitation of the target style. However, ideally, the discriminator in cycleGAN training should also continuously improve its performance, enabling more precise discrimination to foster progress through ongoing competition between the two.
 
 The fluctuations during the training process may be caused by insufficient diversity in the training data, model overfitting, or the need for finer adjustments in the learning rate or other training parameters. These are areas for improvement in future model training processes.
+
+<br>
+
+<img src='pic/kaggle_entry.png' width=500>
